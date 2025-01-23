@@ -5,3 +5,4 @@ pdfplumber
 PyMuPDF
 pypdf
 chromadb
+pysqlite3-binary
